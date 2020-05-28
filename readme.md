@@ -1,1 +1,1 @@
-The index.html and assetts/css/css file have been cleaned up. 
+The index.html and assets/css/style.css file have been cleaned up. 
