@@ -31,4 +31,5 @@ Find my email
 
 # Screenshot of Cleaned Code
 
-<img width="190" alt="Screen Shot 2020-09-19 at 11 44 05 AM" src="https://user-images.githubusercontent.com/64648897/93671478-5c98fd00-fa71-11ea-9af1-4c36e01dcd39.png">
+<img width="2122" alt="Screen Shot 2020-09-19 at 12 13 25 PM" src="https://user-images.githubusercontent.com/64648897/93671504-92d67c80-fa71-11ea-92e8-3784c3c12fd7.png">
+
